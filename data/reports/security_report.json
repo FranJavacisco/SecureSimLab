@@ -1,0 +1,279 @@
+{
+    "timestamp": "2025-01-09T03:56:38.333143",
+    "system_info": {
+        "platform": "Windows-11-10.0.26100-SP0",
+        "processor": "AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD",
+        "memory": 6323187712
+    },
+    "metrics_summary": {
+        "total_records": 0,
+        "avg_cpu": 0,
+        "avg_memory": 0
+    },
+    "security_events": [
+        {
+            "timestamp": "2025-01-09T03:56:34.024155",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58732.81 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:31.998917",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58732.47 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:29.958238",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58732.34 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:27.942942",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58732.06 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:25.911990",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58731.89 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:23.847925",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58731.65 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:21.805162",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58731.54 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:19.780791",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58689.23 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:17.717046",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58689.01 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:15.700583",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58688.79 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:13.673189",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58687.82 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:11.643567",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58687.70 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:09.606792",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58687.47 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:07.551202",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58687.25 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:05.519543",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58687.14 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:03.490767",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58686.94 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:56:01.450294",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58686.78 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:59.424732",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58685.39 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:57.393911",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58599.51 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:55.358938",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58599.24 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:53.323016",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58598.91 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:51.287564",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58598.53 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:49.207237",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58598.25 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:47.172326",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58597.95 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:45.142458",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58597.85 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:43.105761",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58597.70 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:41.074037",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58597.38 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:39.037077",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58596.84 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:37.014992",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58596.37 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:34.973404",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58595.79 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:32.939689",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58595.38 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:30.888115",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58594.39 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:28.838820",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58593.62 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:26.791234",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58593.24 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:24.755195",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58592.99 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:22.733451",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58592.55 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:20.666669",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58549.84 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:18.639020",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58549.59 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:16.607389",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58549.42 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:14.563031",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58548.68 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:12.545591",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58548.53 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:10.503668",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58548.25 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:08.481340",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58547.70 MB/s",
+            "severity": "WARNING"
+        },
+        {
+            "timestamp": "2025-01-09T03:55:06.443018",
+            "type": "HIGH_DISK_ACTIVITY",
+            "description": "Actividad de disco elevada: 58547.43 MB/s",
+            "severity": "WARNING"
+        }
+    ]
+}
